@@ -14,7 +14,3 @@
 ![sc12](./images/sc12.png "sc12")
 ![sc13](./images/sc13.png "sc13")
 
-
-
-![baki](./images/baki.jpg "baki")
-
